@@ -24,10 +24,10 @@
     },
     {
       "id": 3,
-      "name": "ReactJS Pro",
+      "name": "NextJS Pro",
       "price": null,
       "priceAfterDiscount": null,
-      "image": "https://files.fullstack.edu.vn/f8-prod/courses/20/62f13dded314e.png",
+      "image": "https://files.fullstack.edu.vn/f8-prod/courses/20/648020fc16597.png",
       "logo": "https://fullstack.edu.vn/static/media/crown_icon.3e4800f7485935ab6ea312a7080a85fe.svg",
       "active": false,
       "numberOfMember": null,
